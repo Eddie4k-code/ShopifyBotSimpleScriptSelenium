@@ -1,4 +1,4 @@
-This is a simple shopify auto check out script for ShoePalace, and could be used for other shopify sites.
+This is a simple shopify auto check out script for ShoePalace, and could be used for other shopify sites. There is no user interface added to this.
 
 The script will ask the user to type in keywords and the script will then try and find the shoe, however if your keywords are not quite accurate on the specific shoe your looking for it has
 the risk of grabbing a different shoe.
