@@ -3,6 +3,6 @@ This is a simple shopify auto check out script for ShoePalace, and could be used
 The script will ask the user to type in keywords and the script will then try and find the shoe, however if your keywords are not quite accurate on the specific shoe your looking for it has
 the risk of grabbing a different shoe.
 
-This is purley for learning purposes as I am a new to python and using web scraping, I dont reccomend actually using this script to buy anything.
+This is only for learning purposes as I am a new to python and find using selenium very interesting, I dont reccomend actually using this script to buy anything.
 
 As of right now I have not added sizes so the script will auto checkout the first size that is avaliable, however adding sizes can be easily added.
